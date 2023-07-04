@@ -1,0 +1,6 @@
+@mixin btn-default($color-bg, $color-font:#fff){
+    padding:6px 20px;
+    border-radius:30px;
+    background-color:($color-bg);
+    color:($color-font);
+}
